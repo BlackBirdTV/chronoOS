@@ -1,0 +1,17 @@
+/home/luis/redox/redox/relibc/target/x86_64-unknown-redox/release/deps/core_io-24b908f7d3474460.rmeta: core_io/src/lib.rs /home/luis/redox/redox/relibc/target/x86_64-unknown-redox/release/build/core_io-6a9f861975059f30/out/io.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/mod.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/prelude.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/buffered.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/cursor.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/error.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/impls.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/util.rs
+
+/home/luis/redox/redox/relibc/target/x86_64-unknown-redox/release/deps/libcore_io-24b908f7d3474460.rlib: core_io/src/lib.rs /home/luis/redox/redox/relibc/target/x86_64-unknown-redox/release/build/core_io-6a9f861975059f30/out/io.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/mod.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/prelude.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/buffered.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/cursor.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/error.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/impls.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/util.rs
+
+/home/luis/redox/redox/relibc/target/x86_64-unknown-redox/release/deps/core_io-24b908f7d3474460.d: core_io/src/lib.rs /home/luis/redox/redox/relibc/target/x86_64-unknown-redox/release/build/core_io-6a9f861975059f30/out/io.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/mod.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/prelude.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/buffered.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/cursor.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/error.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/impls.rs /home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/util.rs
+
+core_io/src/lib.rs:
+/home/luis/redox/redox/relibc/target/x86_64-unknown-redox/release/build/core_io-6a9f861975059f30/out/io.rs:
+/home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/mod.rs:
+/home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/prelude.rs:
+/home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/buffered.rs:
+/home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/cursor.rs:
+/home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/error.rs:
+/home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/impls.rs:
+/home/luis/redox/redox/relibc/core_io/src/b9adc3327ec7d2820ab2db8bb3cc2a0196a8375d/util.rs:
+
+# env-dep:OUT_DIR=/home/luis/redox/redox/relibc/target/x86_64-unknown-redox/release/build/core_io-6a9f861975059f30/out

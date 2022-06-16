@@ -1,0 +1,25 @@
+warning: target json file contains unused fields: eliminate-frame-pointer, has-elf-tls, no-compiler-rt
+
+error[E0463]: can't find crate for `std`
+  |
+  = note: the `x86-unknown-none` target may not be installed
+  = help: consider downloading the target with `rustup target add x86-unknown-none`
+  = help: consider building the standard library from source with `cargo build -Zbuild-std`
+
+error: aborting due to previous error
+
+For more information about this error, try `rustc --explain E0463`.
+warning: target json file contains unused fields: eliminate-frame-pointer, has-elf-tls, no-compiler-rt
+
+error[E0463]: can't find crate for `core`
+  |
+  = note: the `x86-unknown-none` target may not be installed
+  = help: consider downloading the target with `rustup target add x86-unknown-none`
+  = help: consider building the standard library from source with `cargo build -Zbuild-std`
+
+error[E0463]: can't find crate for `compiler_builtins`
+
+error: aborting due to 2 previous errors
+
+For more information about this error, try `rustc --explain E0463`.
+warning: autocfg could not probe for `std`

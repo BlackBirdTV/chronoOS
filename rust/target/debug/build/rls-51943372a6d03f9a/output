@@ -1,0 +1,6 @@
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-env-changed=CFG_RELEASE_CHANNEL
+cargo:rustc-env=GIT_HASH=3df7438
+
+cargo:rustc-env=COMMIT_DATE=2022-02-10
+cargo:rustc-env=FIXTURES_DIR=/home/luis/redox/redox/rust/src/tools/rls/tests/fixtures

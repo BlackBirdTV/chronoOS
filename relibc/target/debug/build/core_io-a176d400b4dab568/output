@@ -1,0 +1,2 @@
+cargo:rustc-cfg=core_memchr
+cargo:rustc-cfg=no_collections

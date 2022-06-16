@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/luis/redox/redox/rust/target/debug/build/typenum-26314e5276ec46e4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/luis/redox/redox/rust/target/debug/build/typenum-26314e5276ec46e4/out/op.rs

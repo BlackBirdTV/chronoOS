@@ -1,0 +1,1 @@
+/home/luis/redox/redox/redox-initfs/target/debug/redox-initfs-ar: /home/luis/redox/redox/redox-initfs/src/lib.rs /home/luis/redox/redox/redox-initfs/src/types.rs /home/luis/redox/redox/redox-initfs/tools/src/archive_common.rs /home/luis/redox/redox/redox-initfs/tools/src/bin/archive.rs

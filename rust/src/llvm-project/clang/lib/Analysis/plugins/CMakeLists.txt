@@ -1,0 +1,5 @@
+if(CLANG_ENABLE_STATIC_ANALYZER AND CLANG_PLUGIN_SUPPORT)
+  add_subdirectory(SampleAnalyzer)
+  add_subdirectory(CheckerDependencyHandling)
+  add_subdirectory(CheckerOptionHandling)
+endif()

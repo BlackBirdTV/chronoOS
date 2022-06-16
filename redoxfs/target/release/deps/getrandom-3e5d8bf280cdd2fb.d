@@ -1,0 +1,12 @@
+/home/luis/redox/redox/redoxfs/target/release/deps/getrandom-3e5d8bf280cdd2fb.rmeta: /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/linux_android.rs
+
+/home/luis/redox/redox/redoxfs/target/release/deps/libgetrandom-3e5d8bf280cdd2fb.rlib: /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/linux_android.rs
+
+/home/luis/redox/redox/redoxfs/target/release/deps/getrandom-3e5d8bf280cdd2fb.d: /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs /home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/linux_android.rs
+
+/home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/lib.rs:
+/home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/error.rs:
+/home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util.rs:
+/home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/util_libc.rs:
+/home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/use_file.rs:
+/home/luis/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.5/src/linux_android.rs:

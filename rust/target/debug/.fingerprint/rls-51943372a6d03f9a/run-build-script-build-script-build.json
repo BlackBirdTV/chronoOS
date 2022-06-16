@@ -1,0 +1,1 @@
+{"rustc":17424654657963254369,"features":"","target":0,"profile":0,"path":0,"deps":[[6239509814140862020,"build_script_build",false,9188956825599553022]],"local":[{"RerunIfChanged":{"output":"debug/build/rls-51943372a6d03f9a/output","paths":["build.rs"]}},{"RerunIfEnvChanged":{"var":"CFG_RELEASE_CHANNEL","val":null}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

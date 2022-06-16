@@ -1,0 +1,6 @@
+create target/x86_64-unknown-redox/release/libc.a
+addlib target/x86_64-unknown-redox/release/librelibc.a
+addlib target/x86_64-unknown-redox/pthreads-emb/libpthread.a
+addlib target/x86_64-unknown-redox/openlibm/libopenlibm.a
+save
+end

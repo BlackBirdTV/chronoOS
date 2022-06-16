@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/luis/redox/redox/bootloader/target/x86-unknown-none/release/build/typenum-40aeb567a4442b6a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/luis/redox/redox/bootloader/target/x86-unknown-none/release/build/typenum-40aeb567a4442b6a/out/op.rs

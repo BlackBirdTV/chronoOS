@@ -1,0 +1,6 @@
+cargo:rustc-env=PROFILE=debug
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=GIT_HASH=3a291a347c6
+
+cargo:rustc-env=COMMIT_DATE=2022-03-27
+cargo:rustc-env=RUSTC_RELEASE_CHANNEL=nightly
