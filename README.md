@@ -6,8 +6,8 @@
 
 It builds upon redox, upgrading the apperance and also soon add more useful apps and features.
 
-<img src="chronoOS-login.png" />
-<img src="chronoOS-desktop.png" />
-<img src="chronoOS-app-menu.png" />
-<img src="chronoOS-apps.png" />
+<img src="chronoOS-login.png" alt="Login" />
+<img src="chronoOS-desktop.png" alt="Desktop" />
+<img src="chronoOS-app-menu.png" alt="App Menu" />
+<img src="chronoOS-apps.png" alt="Apps" />
 </p>
